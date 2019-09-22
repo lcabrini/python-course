@@ -10,10 +10,66 @@ Lorenzo Cabrini <lorenzo.cabrini@gmail.com>
 
 == Welcome!
 
-You are going to learn to program in Python.
+You are going to learn to program in *Python*.
 
 <<<
 
-== Python
+== Before we Begin
 
-Python is  a programming language.
+This is a very *practical* course.
+
+NOTE: In order to become a programmer you will need to write *a lot of code*.
+
+<<<
+
+"You can't learn to fly a plane by watching slides. The same is true for programming."
+
+<<<
+
+This is also a very *active* course.
+
+NOTE: "You need to do the thinking, not me."
+
+<<<
+
+This doesn't mean that *theory* is not important in programming. It is.
+
+However, you need to build up some practical skills first.
+
+<<<
+
+== What you will need
+
+To get started you will need:
+
+* Python 3.6 or later
+* a text editor
+* a terminal ("Command prompt" for Windows users)
+
+NOTE: Later in the course you will need a few other things. We will set things up when we need them.
+
+<<<
+
+== Good to Have
+
+It is a good idea to download the Python 3 *documentation* on your system, especially if you don't have constant Internet access: https://docs.python.org.
+
+Always keep a *notebook* and a few *pens* around when you are programming.
+
+<<<
+
+== Preparing your System
+
+To begin with we are going to make sure you have a Python 3 environment and a text editor installed on your system.
+
+WARNING: This course uses Python 3. Make sure you have the right version installed.
+
+<<<
+
+== Pause
+
+We will pause for a few minutes to make sure everybody has a working environment set up.
+
+If you already have Python 3 running on your system and a text editor that you like, you can take *a few minutes* to stretch your legs.
+
+== Interactive Python
