@@ -1,0 +1,19 @@
+= Python Course: Lesson 1
+Lorenzo Cabrini <lorenzo.cabrini@gmail.com>
+:icons: font
+:source-highlighter: coderay
+:experimental:
+:pdf-page-size: 9in x 6in
+:title-page:
+
+<<<
+
+== Welcome!
+
+You are going to learn to program in Python.
+
+<<<
+
+== Python
+
+Python is  a programming language.
