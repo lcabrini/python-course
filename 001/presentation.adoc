@@ -72,4 +72,31 @@ We will pause for a few minutes to make sure everybody has a working environment
 
 If you already have Python 3 running on your system and a text editor that you like, you can take *a few minutes* to stretch your legs.
 
+<<<
+
 == Interactive Python
+
+We are going to get to know Python by using the *Interactive Mode*.
+
+<<<
+
+To start the Interactive Mode, open a terminal and type:
+
+[listing]
+----
+% python3
+----
+
+NOTE: From this point on, I will use `%` to indicate the shell prompt. Don't type this.
+
+<<<
+
+You should see something like the following:
+
+[listing]
+----
+Python 3.7.4 (default, Jul  9 2019, 16:32:37) 
+[GCC 9.1.1 20190503 (Red Hat 9.1.1-1)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+----
