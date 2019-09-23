@@ -1,14 +1,16 @@
 ASCIIDOCTOR = asciidoctor-pdf
-PDF = python-001-workbook.pdf python-001-presentation.pdf
+WORKBOOK = python-001-workbook.pdf
+PRESENTATION = python-001-presentation.pdf
+PDF = $(WORKBOOK) $(PRESENTATION)
 THEME = -a pdf-style=../theme/presentation-theme.yml
 
 all: $(PDF)
 
-python-001-workbook.pdf: workbook.adoc
-	asciidoctor-pdf workbook.adoc -o $@
+$(WORKBOOK): workbook.adoc
+	$(ASCIIDOCTOR) workbook.adoc -o $@
 
-python-001-presentation.pdf: presentation.adoc
-	asciidoctor-pdf presentation.adoc $(THEME) -o $@
+$(PRESENTATION): presentation.adoc
+	$(ASCIIDOCTOR) presentation.adoc $(THEME) -o $@
 
 clean:
 	$(RM) $(PDF)
