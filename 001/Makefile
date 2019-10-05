@@ -1,8 +1,9 @@
+COMMON_DIR = /usr/local/training-materials-common
 ASCIIDOCTOR = asciidoctor-pdf
 WORKBOOK = python-001-workbook.pdf
 PRESENTATION = python-001-presentation.pdf
 PDF = $(WORKBOOK) $(PRESENTATION)
-THEME = -a pdf-style=../theme/presentation-theme.yml
+THEME = -a pdf-style=$(COMMON_DIR)/theme/presentation-theme.yml
 
 all: $(PDF)
 
