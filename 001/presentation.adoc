@@ -100,3 +100,32 @@ Python 3.7.4 (default, Jul  9 2019, 16:32:37)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ----
+
+NOTE: We want to make sure everybody is in the Python Interactive environment. If you can, help your neighbor!
+
+<<<
+
+The >>> you see is the *prompt*. When you see this it means Python is ready for you to type statements that it will process.
+
+<<<
+
+== A Very Basic Expression
+
+Type 12 at the prompt and hit enter. What happens?
+
+[listing]
+----
+>>> 12
+----
+
+<<<
+
+That's right. Python echoed the 12 back to you.
+
+[listing]
+----
+>>> 12
+12
+----
+
+NOTE: If you got some different output, raise your hand so that we can help you get it right.
