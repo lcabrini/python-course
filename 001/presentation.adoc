@@ -118,6 +118,8 @@ Type 12 at the prompt and hit enter. What happens?
 >>> 12
 ----
 
+NOTE: You should try *all* the examples yourself.
+
 <<<
 
 That's right. Python echoed the 12 back to you.
@@ -129,3 +131,4 @@ That's right. Python echoed the 12 back to you.
 ----
 
 NOTE: If you got some different output, raise your hand so that we can help you get it right.
+
