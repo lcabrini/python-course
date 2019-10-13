@@ -20,9 +20,10 @@ This is a very *practical* course.
 
 NOTE: In order to become a programmer you will need to write *a lot of code*.
 
-<<<
-
+[quote]
+----
 "You can't learn to fly a plane by watching slides. The same is true for programming."
+----
 
 <<<
 
