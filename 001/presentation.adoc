@@ -133,3 +133,15 @@ That's right. Python echoed the 12 back to you.
 
 NOTE: If you got some different output, raise your hand so that we can help you get it right.
 
+== Some Things Don't Work
+
+[listing]
+----
+>>> hello
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'hello' is not defined
+>>> 
+----
+
+NOTE: An error means we did something that violates Python's *rules*.
